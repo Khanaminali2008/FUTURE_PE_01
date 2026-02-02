@@ -6,13 +6,13 @@
 
 # 
 
-# \## Task Overview
+# \ Task Overview
 
 # The objective of Task 1 was to design a complete AI-driven YouTube content workflow using prompt engineering.
 
 # 
 
-# \## What This Repo Contains
+# \ What This Repo Contains
 
 # \- A structured prompt chain for ideation and scripting
 
@@ -24,13 +24,13 @@
 
 # 
 
-# \## Topic Chosen
+# \ Topic Chosen
 
 # "I Asked ChatGPT to Run My Day – Here’s What Happened"
 
 # 
 
-# \## Tools Used
+# \ Tools Used
 
 # \- ChatGPT (prompt engineering \& script generation)
 
